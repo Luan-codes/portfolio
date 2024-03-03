@@ -1,0 +1,363 @@
+
+    *** The WebShala ***
+
+ --- Contents (Personal Portfolio Template) ---
+
+1. Aside Navbar
+
+    - logo
+
+      Nav       
+    - icon (fa fa-home) font Awesome Icon         Home
+    - icon (fa fa-user) font Awesome Icon         About
+    - icon (fa fa-list) font Awesome Icon         Service
+    - icon (fa fa-briefcase) font Awesome Icon    Portfolio
+    - icon (fa fa-envelope) font Awesome Icon     Blog
+    - icon (fa fa-comments) font Awesome Icon     Contact
+
+    - copyright text
+
+1. Home Section
+
+    - Photo
+    - Upvesh Kumar
+    - I'm a Web Developer
+    
+      Social Links
+    - icon (fa fa-twitter) font Awesome Icon 
+    - icon (fa fa-facebook) font Awesome Icon 
+    - icon (fa fa-instagram) font Awesome Icon 
+    - icon (fa fa-linkedin) font Awesome Icon 
+
+2. About Me
+   
+   - About Me
+   - I'm Upvesh Kumar and Web Developer
+   - Hi! My name is Upvesh Kumar. I am a Web Developer, and I'm very passionate and dedicated 
+     to my work. With 10 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration. 
+     
+     Personal-info
+   - Birthday : 5 June 1992
+   - Age : 28
+   - Website : www.domain.com
+   - Email : info@gmail.com
+   - Degree : M.Tech
+   - Phone : +91 8800 000 000
+   - City : Mumbai
+   - Freelance : Available
+
+     Button
+   - Downolad, Hire Me
+
+     Skills
+   - Javascript 76%
+   - Wordpress 90%
+   - Java 80%
+   - Bootstrap 60%
+
+     Education
+   - 2013 - 2015
+   - Master In Computer Science
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+   - 2011 - 2013
+   - Studied At Delhi University
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+   - 2008 - 2011
+   - Bachelor Degree
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+     Experience
+   - 2013 - 2015
+   - Backend Developer
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+   - 2011 - 2013
+   - Frontend Developer
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+   - 2008 - 2011
+   - Graphic Designer
+   - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non 
+     nisi semper, et elementum lorem ornare.
+
+3. Services
+
+   - icon : fa fa-laptop (font awesome icon)
+   - Web Design
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-photo (font awesome icon)
+   - Photography
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-code (font awesome icon)
+   - Web Development
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-film (font awesome icon)
+   - Video Editing
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-rocket (font awesome icon)
+   - Seo Optimization
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+   - icon : fa fa-paint-brush (font awesome icon)
+   - Logo Design
+   - Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum.
+
+4. Portfolio
+
+   - All, Web, Design, Photography, Wordpress
+
+
+5. Blog
+
+   - 4 jun 2020
+   - Responsive Web Design
+   - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo 
+     quam, eum alias id, repellendus magni, quas.
+   - Tags : Html , css
+
+   - 4 jun 2020
+   - Creative Slideshow
+   - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo 
+     quam, eum alias id, repellendus magni, quas.
+   - Tags : Html , Javascript
+
+   - 4 jun 2020
+   - Image Gallery Lightbox
+   - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo 
+     quam, eum alias id, repellendus magni, quas.
+   - Tags : Javascript
+
+6. Contact Me
+
+   - icon : fa fa-phone (font awesome icon)
+   - Call Us On
+   - +91 8800 000 000
+
+   - icon : fa fa-map-marker (font awesome icon)
+   - Office
+   - +91 8800 000 000
+
+   - icon : fa fa-envelope (font awesome icon)
+   - Email
+   - info@gmail.com
+
+     Form Field
+   - Name, Email, Subject, Message, Button (Send Message) 
+
+
+
+
+
+<section class="contact section">
+      <div class="container">
+        <div class="row">
+          <div class="section-title padd-15">
+              <h2>Contato</h2>
+          </div>
+        </div>
+        <div class="row">
+          <!-- contact-info-item -->
+          <div class="contact-info-item padd-15">
+             <div class="icon"><i class="fa fa-phone"></i></div>
+             <h4>Entrar em Contato</h4>
+             <p>++55 24981881336</p>
+          </div>
+          <!-- contact-info-item End -->
+          <!-- contact-info-item -->
+          <div class="contact-info-item padd-15">
+            <div class="icon"><i class="fa fa-instagram"></i></div>
+            <h4>Instagram</h4>
+            <p>_luanfernandez</p>
+         </div>
+         <!-- contact-info-item End -->
+         <!-- contact-info-item -->
+         <div class="contact-info-item padd-15">
+          <div class="icon"><i class="fa fa-envelope"></i></div>
+          <h4>Email</h4>
+          <p>@contatodesignerdesites.com.br</p>
+       </div>
+       <!-- contact-info-item End -->
+        </div>
+        <!-- Contact form -->
+        <div class="row">
+          <form class="contact-form padd-15">
+             <div class="row">
+                <div class="form-item col-6 padd-15">
+                    <div class="form-group">
+                        <input type="text" class="form-control"placeholder="Nome*">
+                  </div>
+                </div>
+                <div class="form-item col-6 padd-15">
+                  <div class="form-group">
+                      <input type="text" class="form-control"placeholder="Email*">
+                </div>
+              </div>
+             </div>
+             <div class="row">
+              <div class="form-item col-12 padd-15">
+                <div class="form-group">
+                    <input type="text" class="form-control"placeholder="Assunto*">
+              </div>
+            </div>
+             </div>
+             <div class="row">
+              <div class="form-item col-12 padd-15">
+                <div class="form-group">
+                    <textarea class="form-control" placeholder="Mensagem..."></textarea>
+              </div>
+            </div>
+             </div>
+             <div class="row">
+              <div class="col-12 padd-15">
+                <button type="submit" class="btn">Enviar</button>
+              </div>
+            </div>
+          </form>
+        </div>
+        <!-- Contact form End -->
+      </div>
+    </section>  
+
+
+
+
+
+
+
+    
+.contact .contact-info-item .icon{
+    display: inline-block;
+}
+.contact .contact-info-item .icon .fa{
+    font-size: 40px;
+}
+.contact .contact-info-item .h4{
+    font-size: 18px;
+    font-weight: 700;
+    color: #504e70;
+    text-transform: capitalize;
+    margin:10px 0 5px;
+}
+.contact .contact-info-item .p{
+    font-size: 16px;
+    line-height: 25px;
+    color: #504e70;
+    margin: 0;
+    font-weight: 400;
+}
+.contact .contact-form{
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+
+}
+.contact .contact-form .col-6{
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.contact .contact-form .col-12{
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.contact .contact-form .form-item{
+    margin-bottom: 30px;
+}
+.contact .contact-form .form-item .form-control{
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid #d4d4e3;
+    padding: 10px 25px;
+    font-size: 16px;
+    color: #504e70;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.contact .contact-form .form-item .form-control:focus{
+    -webkit-box-shadow: 0 0 20px rgba(48,46,77,0.15);
+     box-shadow: 0 0 20px rgba(48,46,77,0.15);
+}
+.contact .contact-form .form-item textarea.form-control{
+    height: 140px;
+}
+.contact .contact-form .btn{
+    height: 50px;
+    padding: 0 50px;
+}
+
+
+
+      
+
+      .style-switcher{
+    position: fixed;
+    top: 20px;
+    right: 0;
+    z-index: 10;
+    background-color: #ffffff;
+    padding: 15px;
+    border:1px solid #d4d4e3;
+    border-right: none;
+    border-radius: 0 0 0 5px;
+}
+
+.style-switcher h5{
+    font-size: 16px;
+    color: #302e4d;
+    margin-top: 0;
+    margin-bottom: 8px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e8dfec;
+}
+
+.style-switcher ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.style-switcher ul li{
+    display: inline-block;
+}
+
+.style-switcher ul li a{
+    height: 30px;
+    width: 30px;
+    display: block;
+    border-radius: 50%;
+    cursor: pointer;
+    text-decoration: none;
+    margin-right: 2px;
+}
+
+.style-switcher .toogle-style-switcher{
+    position: absolute;
+    height: 45px;
+    width: 45px;
+    background-color: #ffffff;
+    left: -46px;
+    top: -1px;
+    border-bottom: 1px solid #e8dfec;
+    border-right: none;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px 0 0 5px;
+}
+
+.style-switcher .toogle-style-switcher .fa{
+    font-size: 20px;
+    line-height: 43px;
+}
